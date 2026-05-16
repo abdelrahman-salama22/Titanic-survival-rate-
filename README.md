@@ -113,13 +113,7 @@ Classification Report:
 
 > *Values above are approximate and may vary slightly.*
 
----
 
-## 📉 Decision Boundary Plot
-
-The decision boundary below visualizes how the model separates survivors from non-survivors using **Age** and **Passenger Class** as the two axes.
-
-![Decision Boundary](decision_boundary.png)
 
 ---
 
